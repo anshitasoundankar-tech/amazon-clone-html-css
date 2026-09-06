@@ -189,7 +189,7 @@ span{
 .box-img img{
   width: 100%;
   object-fit: cover;
-  display: block;
+  display: flex;
   height: 100%;
   margin-top: 1rem;
   margin-bottom: 1rem;
