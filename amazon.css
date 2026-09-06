@@ -187,12 +187,13 @@ span{
 }
 
 .box-img img{
-  width: 80%;
+  width: 90%;
   object-fit: cover;
   display: block;
-  height: 80%;
+  height: 90%;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  margin-right: 1rem;
 }
 
 .box-content{
