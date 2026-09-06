@@ -188,14 +188,13 @@ span{
 
 .box-img img{
   width: 90%;
-  object-fit: cover;
+  object-fit: block;
   display: flex;
-  height: 85%;
+  height: 90%;
   margin-top: 1rem;
   margin-bottom: 1rem;
   margin-right: 1rem;
   margin-left: 1rem;
-  justify-content: center;
 }
 
 .box-content{
