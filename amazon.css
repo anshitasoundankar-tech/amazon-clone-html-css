@@ -186,10 +186,11 @@ span{
   margin-top: 15px;
 }
 
-.box-img{
+.box-img img{
   height: 300px;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  object-fit: cover;
 }
 
 .box-content{
